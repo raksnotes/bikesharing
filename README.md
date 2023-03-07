@@ -7,6 +7,8 @@ In ref to Mod 4.2.4 & Challenge Instructions:
 ![image](https://user-images.githubusercontent.com/116187123/223319105-82f1fa06-60e3-4da6-b610-8ac94fc9eaf6.png)
 ![image](https://user-images.githubusercontent.com/116187123/223319199-16d2cfd1-d034-4eaa-bf58-01d4e9c060f9.png)
 
+Additional Reference: https://www.delftstack.com/howto/python-pandas/pandas-to-csv-without-index/#:~:text=If%20we%20want%20to%20convert%20this%20DataFrame%20to,1%209%2012%2014%202%208%2010%206
+
 ## Deliverable 2: 
 
 ![image](https://user-images.githubusercontent.com/116187123/223319530-72a31265-f2fc-4ae4-adee-a824814624bd.png)
