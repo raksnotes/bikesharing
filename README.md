@@ -5,7 +5,7 @@
 
 
 
-In ref to Mod 4.2.4 & Challenge Instructions: 
+Referenced Mod 4.2.4 & Challenge Instructions Hint for: 
 ## Deliverable 1: 
 ![image](https://user-images.githubusercontent.com/116187123/223319005-3543c056-6844-45c9-a58e-828c9d0a7d48.png)
 ![image](https://user-images.githubusercontent.com/116187123/223319035-97cd3f85-e9c2-417c-8761-b7b004a6a2a9.png)
